@@ -1,4 +1,4 @@
-!(assets/digital-allies-logo-turquoise-gradient.svg)
+![Digital Allies logo variation](assets/digital-allies-logo-default.svg)
 
 # Digital Allies Animation Series
 
